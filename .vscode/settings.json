@@ -1,0 +1,4 @@
+{
+    "appService.preDeployTask": "package:dimdim",
+    "appService.deploySubpath": "target/dimdim-0.0.1-SNAPSHOT.jar"
+}
